@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0585-investments-in-2016) |
 | [1321-restaurant-growth](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1321-restaurant-growth) |
 | [1795-rearrange-products-table](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1795-rearrange-products-table) |
 ## Array
