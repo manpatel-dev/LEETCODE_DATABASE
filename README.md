@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0585-investments-in-2016) |
 | [1321-restaurant-growth](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1321-restaurant-growth) |
 | [1795-rearrange-products-table](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1795-rearrange-products-table) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
 | ------- |
