@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
