@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0561-array-partition) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/manpatel68/LEETCODE_DATABASE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
